@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" width="1200" height="900">
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#cfdfe6"/><stop offset=".7" stop-color="#ece7de"/><stop offset="1" stop-color="#f3eee6"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9fb7c2"/><stop offset="1" stop-color="#7f98a6"/></linearGradient>
+<linearGradient id="wall" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ece6dc"/><stop offset="1" stop-color="#ddd5c8"/></linearGradient>
+</defs>
+<rect width="1200" height="900" fill="url(#sky)"/>
+<rect x="140" y="80" width="300" height="460" fill="url(#wall)"/><rect x="700" y="40" width="320" height="500" fill="url(#wall)"/>
+<rect x="160" y="100" width="120" height="38" fill="url(#glass)"/>
+<rect x="300" y="100" width="120" height="38" fill="url(#glass)"/>
+<rect x="160" y="155" width="120" height="38" fill="url(#glass)"/>
+<rect x="300" y="155" width="120" height="38" fill="url(#glass)"/>
+<rect x="160" y="210" width="120" height="38" fill="url(#glass)"/>
+<rect x="300" y="210" width="120" height="38" fill="url(#glass)"/>
+<rect x="160" y="265" width="120" height="38" fill="url(#glass)"/>
+<rect x="300" y="265" width="120" height="38" fill="url(#glass)"/>
+<rect x="160" y="320" width="120" height="38" fill="url(#glass)"/>
+<rect x="300" y="320" width="120" height="38" fill="url(#glass)"/>
+<rect x="160" y="375" width="120" height="38" fill="url(#glass)"/>
+<rect x="300" y="375" width="120" height="38" fill="url(#glass)"/>
+<rect x="160" y="430" width="120" height="38" fill="url(#glass)"/>
+<rect x="300" y="430" width="120" height="38" fill="url(#glass)"/>
+<rect x="160" y="485" width="120" height="38" fill="url(#glass)"/>
+<rect x="300" y="485" width="120" height="38" fill="url(#glass)"/>
+<rect x="720" y="60" width="130" height="36" fill="url(#glass)"/>
+<rect x="870" y="60" width="130" height="36" fill="url(#glass)"/>
+<rect x="720" y="112" width="130" height="36" fill="url(#glass)"/>
+<rect x="870" y="112" width="130" height="36" fill="url(#glass)"/>
+<rect x="720" y="164" width="130" height="36" fill="url(#glass)"/>
+<rect x="870" y="164" width="130" height="36" fill="url(#glass)"/>
+<rect x="720" y="216" width="130" height="36" fill="url(#glass)"/>
+<rect x="870" y="216" width="130" height="36" fill="url(#glass)"/>
+<rect x="720" y="268" width="130" height="36" fill="url(#glass)"/>
+<rect x="870" y="268" width="130" height="36" fill="url(#glass)"/>
+<rect x="720" y="320" width="130" height="36" fill="url(#glass)"/>
+<rect x="870" y="320" width="130" height="36" fill="url(#glass)"/>
+<rect x="720" y="372" width="130" height="36" fill="url(#glass)"/>
+<rect x="870" y="372" width="130" height="36" fill="url(#glass)"/>
+<rect x="720" y="424" width="130" height="36" fill="url(#glass)"/>
+<rect x="870" y="424" width="130" height="36" fill="url(#glass)"/>
+<rect x="720" y="476" width="130" height="36" fill="url(#glass)"/>
+<rect x="870" y="476" width="130" height="36" fill="url(#glass)"/>
+<rect x="0" y="540" width="1200" height="360" fill="#e8e2d6"/>
+<path d="M120 640 L1080 640 L1180 860 L20 860 Z" fill="#7fbccb"/><path d="M160 660 L1050 660 L1120 820 L80 820 Z" fill="#9fd0da" opacity=".8"/>
+<path d="M200 700 q40 -10 80 0" stroke="#e6f4f6" stroke-width="4" fill="none" opacity=".8"/>
+<path d="M350 700 q40 -10 80 0" stroke="#e6f4f6" stroke-width="4" fill="none" opacity=".8"/>
+<path d="M500 700 q40 -10 80 0" stroke="#e6f4f6" stroke-width="4" fill="none" opacity=".8"/>
+<path d="M650 700 q40 -10 80 0" stroke="#e6f4f6" stroke-width="4" fill="none" opacity=".8"/>
+<path d="M800 700 q40 -10 80 0" stroke="#e6f4f6" stroke-width="4" fill="none" opacity=".8"/>
+<path d="M950 700 q40 -10 80 0" stroke="#e6f4f6" stroke-width="4" fill="none" opacity=".8"/>
+<path d="M60 640 Q66 540.0 62 440" stroke="#8a7a66" stroke-width="7" fill="none"/><path d="M62 440 Q85.0 426 108 450" stroke="#7f9c84" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M62 440 Q78.2634559672906 426 95 466" stroke="#7f9c84" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M62 440 Q62.0 426 62 472" stroke="#7f9c84" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M62 440 Q45.7365440327094 426 29 466" stroke="#7f9c84" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M62 440 Q39.0 426 16 450" stroke="#7f9c84" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M62 440 Q45.7365440327094 426 29 434" stroke="#7f9c84" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M62 440 Q62.0 426 62 428" stroke="#7f9c84" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M62 440 Q78.26345596729058 426 95 434" stroke="#7f9c84" stroke-width="9" fill="none" stroke-linecap="round"/>
+<path d="M1110 640 Q1116 540.0 1112 440" stroke="#8a7a66" stroke-width="7" fill="none"/><path d="M1112 440 Q1135.0 426 1158 450" stroke="#7f9c84" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M1112 440 Q1128.2634559672906 426 1145 466" stroke="#7f9c84" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M1112 440 Q1112.0 426 1112 472" stroke="#7f9c84" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M1112 440 Q1095.7365440327094 426 1079 466" stroke="#7f9c84" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M1112 440 Q1089.0 426 1066 450" stroke="#7f9c84" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M1112 440 Q1095.7365440327094 426 1079 434" stroke="#7f9c84" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M1112 440 Q1112.0 426 1112 428" stroke="#7f9c84" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M1112 440 Q1128.2634559672906 426 1145 434" stroke="#7f9c84" stroke-width="9" fill="none" stroke-linecap="round"/>
+<rect x="260" y="575" width="110" height="22" rx="6" fill="#f7f4ee"/><rect x="350" y="560" width="20" height="30" rx="4" fill="#f1ece3"/>
+<rect x="450" y="575" width="110" height="22" rx="6" fill="#f7f4ee"/><rect x="540" y="560" width="20" height="30" rx="4" fill="#f1ece3"/>
+<rect x="640" y="575" width="110" height="22" rx="6" fill="#f7f4ee"/><rect x="730" y="560" width="20" height="30" rx="4" fill="#f1ece3"/>
+<rect x="830" y="575" width="110" height="22" rx="6" fill="#f7f4ee"/><rect x="920" y="560" width="20" height="30" rx="4" fill="#f1ece3"/>
+</svg>
