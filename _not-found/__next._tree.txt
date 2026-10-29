@@ -2,4 +2,4 @@
 :HL["/plinth-prototype/_next/static/chunks/3m6bs863fonig.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"dP58rRq_8fX8bnmIRh6sv","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"KkZEFONYbU-LYkV7RkxwN","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
